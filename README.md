@@ -1,6 +1,7 @@
 # youtube_dl
 
-A FLUTTER Project to search and download Videos or audio only in flv
+A FLUTTER Project to search and download Videos or audio only in flv.
+The download goes automaticlally in the download directory.
 
 ## Todo
 Implement FFMPEG to convert flv to mp3
