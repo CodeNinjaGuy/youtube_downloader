@@ -15,7 +15,7 @@ class HomeScreen extends GetView<HomeController> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('HomeScreen'),
+          title: const Text('Youtube Downloader'),
           centerTitle: true,
         ),
         body: SingleChildScrollView(
